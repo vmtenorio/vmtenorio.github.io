@@ -9,7 +9,7 @@ relative_permalinks: false
 # Setup
 title:            Victor Manuel Tenorio's webpage
 url:              https://vmtenorio.github.io
-baseurl:          /vmtenorio.github.io/
+baseurl:          /
 
 paginate:         5
 
