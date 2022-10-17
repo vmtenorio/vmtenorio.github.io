@@ -2,10 +2,6 @@
 markdown:         redcarpet
 highlighter:      pygments
 
-# Permalinks
-permalink:        pretty
-relative_permalinks: true
-
 # Setup
 title:            Victor Manuel Tenorio's webpage
 url:              https://vmtenorio.github.io
