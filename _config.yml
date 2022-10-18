@@ -17,4 +17,6 @@ paginate:         5
 version:          0.1
 
 github:
-  repo:           https://github.com/vmtenorio.github.io
+  repo:           https://github.com/vmtenorio/vmtenorio.github.io
+
+plugins: ['jekyll/scholar']
