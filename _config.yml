@@ -8,6 +8,7 @@ relative_permalinks: false
 
 # Setup
 title:            Victor Manuel Tenorio
+description:      PhD Student in King Juan Carlos University, Madrid. Graph Neural Networks.
 url:              https://vmtenorio.github.io
 baseurl:          ""
 
