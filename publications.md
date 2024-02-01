@@ -4,12 +4,12 @@ title: Publications
 ---
 
 
-# Journal Papers
+### Journal Papers
 
 1. **V. M. Tenorio** and A. G. Marques, ``Exploiting the Structure of Two Graphs with Graph Neural Networks'', (submitted).
 1. S. Rey, **V. M. Tenorio**, and A. G. Marques, "Robust Graph Filter Identification and Graph Denoising From Signal Observations", in IEEE Transactions on Signal Processing, vol. 71, pp. 3651-3666, 2023, doi: 10.1109/TSP.2023.3300632.. [https://arxiv.org/abs/2210.08488](https://arxiv.org/abs/2210.08488)
 
-# Conference papers
+### Conference papers
 
 1. **V. M. Tenorio**, M. Navarro, S. Segarra and A. G. Marques, "Recovering Missing Node Features with Local Structure-based Embeddings", Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing, Seoul, South Korea, 14-19 April 2024. [https://arxiv.org/abs/2309.09068](https://arxiv.org/abs/2309.09068)
 1. **V. M. Tenorio**, S. Rey and A. G. Marques, "Blind Deconvolution of Sparse Graph Signals in the Presence of Perturbations", Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing, Seoul, South Korea, 14-19 April 2024. [https://arxiv.org/abs/2309.09063](https://arxiv.org/abs/2309.09063)
