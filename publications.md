@@ -1,16 +1,21 @@
 ---
 layout: page
-title: Publications
+title: Research
 ---
 
 
 ### Journal Papers
 
-1. **V. M. Tenorio** and A. G. Marques, ``Exploiting the Structure of Two Graphs with Graph Neural Networks'', (submitted). [https://arxiv.org/abs/2411.05119](https://arxiv.org/abs/2411.05119)
+1. **V. M. Tenorio**, M. Navarro, S. Rey, S. Segarra and A. G. Marques. "Adapting to Heterophilic Graph Data with Structure-Guided Neighbor Discovery". Submitted to IEEE Transactions on Neural Networks and Learning Systems, IEEE. [https://arxiv.org/abs/2506.08871](https://arxiv.org/abs/2506.08871)
+1. C. Liu, **V. M. Tenorio**, A. G. Marques and E. Isufi, "Matched Topological Subspace Detector". Submitted to IEEE Transactions on Signal Processing, IEEE. [https://arxiv.org/abs/2504.05892](https://arxiv.org/abs/2504.05892).
+1. F. Real Rojas, **V. M. Tenorio**, L. Cadarso and A. G. Marques "Rapid Transit Network Design Via Convex Optimization: The Role of Sparsity and Entropy-Based Regularizers". Submitted to Transportation Research Part B, Elsevier. [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5132628](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5132628)
+1. **V. M. Tenorio** and A. G. Marques, "Exploiting the Structure of Two Graphs with Graph Neural Networks'', Submitted to IEEE Transaction on Signal and Information Processing over Networks, IEEE. [https://arxiv.org/abs/2411.05119](https://arxiv.org/abs/2411.05119)
 1. S. Rey, **V. M. Tenorio**, and A. G. Marques, "Robust Graph Filter Identification and Graph Denoising From Signal Observations", in IEEE Transactions on Signal Processing, vol. 71, pp. 3651-3666, 2023, doi: 10.1109/TSP.2023.3300632.. [https://arxiv.org/abs/2210.08488](https://arxiv.org/abs/2210.08488)
 
 ### Conference papers
 
+1. **V. M. Tenorio**, N. Zilberstein, S. Segarra and A. G. Marques, “Graph Guided Diffusion: Unified Guidance for Conditional Graph Generation”, under review for the Thirty-Ninth Annual Conference on Neural Information Processing Systems NeurIPS 2025. [https://arxiv.org/abs/2505.19685](https://arxiv.org/abs/2505.19685)
+1. R. Ramezanpour, **V. M. Tenorio**, A. G. Marques, A. Sabharwal and S. Segarra, “A Few Moments Please: Scalable Graphon Learning via Moment Matching”, under review for the Thirty-Ninth Annual Conference on Neural Information Processing Systems NeurIPS 2025. [https://arxiv.org/abs/2506.04206](https://arxiv.org/abs/2506.04206)
 1. **V. M. Tenorio**, E. Isufi, G. Leus and A. G. Marques, "Tracking Network Dynamics using Probabilistic State-Space Models", Proc. of IEEE Intl. Conf. on Acoustics, Speech and Signal Process., Hyderabad, India, 6-11 April 2025. [https://arxiv.org/abs/2409.08238v1](https://arxiv.org/abs/2409.08238v1)
 1. S. Rey, M. Navarro, **V. M. Tenorio**, S. Segarra and A. G. Marques, "Redesigning graph filter-based GNNs to relax the homophily assumption", Proc. of IEEE Intl. Conf. on Acoustics, Speech and Signal Process., Hyderabad, India, 6-11 April 2025. [https://arxiv.org/abs/2409.08676](https://arxiv.org/abs/2409.08676)
 1. L. Jiang, Q. Xiao, **V. M. Tenorio**, F. Real-Rojas, A. G. Marques and T. Chen, "A Primal-Dual-Assisted Penalty Approach to Bilevel Optimization with Coupled Constraints", Thirty-Eighth Annual Conference on Neural Information Processing Systems NeurIPS 2024, Vancouver, Canada, 10-15 Dec 2024. [https://arxiv.org/abs/2406.10148](https://arxiv.org/abs/2406.10148)
